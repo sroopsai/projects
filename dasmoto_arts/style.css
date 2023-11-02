@@ -15,3 +15,9 @@
     color: white;
     background-color: mediumspringgreen;
 }
+
+.price{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
