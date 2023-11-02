@@ -8,12 +8,23 @@
 
 }
 
-.brush{
+.subheading{
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
     color: white;
     background-color: mediumspringgreen;
+}
+.brush {
+    background-color: mediumspringgreen;
+}
+
+.frame {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
 }
 
 .price{
