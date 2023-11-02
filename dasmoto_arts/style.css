@@ -7,3 +7,11 @@
     background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*1gov2mt*_ga*MzEzMjM1Mjk3Ni4xNjk4NjQ2Mzc1*_ga_3LRZM6TM9L*MTY5ODkxNjgwNi45LjAuMTY5ODkxNjgxMC41Ni4wLjA.);
 
 }
+
+.brush{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
